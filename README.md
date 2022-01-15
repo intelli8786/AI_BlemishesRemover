@@ -19,11 +19,11 @@ App : [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_b
 
 ||이름|역할|github|
 |--|------|---|---|
-|<img src=https://user-images.githubusercontent.com/44287798/147333059-cfe32b6a-bef7-45a9-a778-abe425028bf0.png width=100>|김범수|Prototype 개발, SuperResolution 모듈 개발, Github actions|https://github.com/HYU-kbs|
-|<img src=https://user-images.githubusercontent.com/44287798/147333099-db64d0ed-bd58-49c3-8453-1eba72194d18.png width=100>|김준태|Prototype 개발, Deblur 모듈 개발, 서비스 고도화 연구|https://github.com/sronger|
-|<img src=https://user-images.githubusercontent.com/44287798/147333157-ec9a97c7-b447-4052-917e-97189f3c8615.png width=100>|김지성|PM, Prototype 개발, Inpainting모듈 개발, 학습, Segmentation모듈 개발, REST API 개발, WebAPP 개발, 프로젝트 통합|https://github.com/intelli8786|
-|<img src=https://user-images.githubusercontent.com/44287798/147333178-b167a3bc-0d60-4cd3-891d-7ebbddc80a7b.png width=100>|정소희|서비스 요구사항 분석, Prototype 개발, REST API 개발, SuperResolution, 모듈 개발, Error Handling|https://github.com/SoheeJeong|
-|<img src=https://user-images.githubusercontent.com/44287798/147333196-579afb0d-0a51-4f87-bcb3-6c78883c1428.png width=100>|홍지연|Prototype 개발, Segmentation 모듈개발, Cloud SQL 및, Storage 연동|https://github.com/hongjourney|
+|<img src=https://user-images.githubusercontent.com/44287798/147333059-cfe32b6a-bef7-45a9-a778-abe425028bf0.png width=100>|김범수|SuperResolution 모듈 개발, Github actions|https://github.com/HYU-kbs|
+|<img src=https://user-images.githubusercontent.com/44287798/147333099-db64d0ed-bd58-49c3-8453-1eba72194d18.png width=100>|김준태|Deblur 모듈 개발, 서비스 고도화 연구|https://github.com/sronger|
+|<img src=https://user-images.githubusercontent.com/44287798/147333157-ec9a97c7-b447-4052-917e-97189f3c8615.png width=100>|김지성|PM, Inpainting모듈 개발, 학습, Segmentation모듈 개발, REST API 개발, WebAPP 개발, 프로젝트 통합|https://github.com/intelli8786|
+|<img src=https://user-images.githubusercontent.com/44287798/147333178-b167a3bc-0d60-4cd3-891d-7ebbddc80a7b.png width=100>|정소희|서비스 요구사항 분석, REST API 개발, SuperResolution, 모듈 개발, Error Handling|https://github.com/SoheeJeong|
+|<img src=https://user-images.githubusercontent.com/44287798/147333196-579afb0d-0a51-4f87-bcb3-6c78883c1428.png width=100>|홍지연|Segmentation 모듈개발, Cloud SQL 및, Storage 연동|https://github.com/hongjourney|
 
 
 
